@@ -16,3 +16,5 @@ population > 300,000
 growing economy/population
 climate
 many events
+
+-consider boroughs of nyc as different cities
